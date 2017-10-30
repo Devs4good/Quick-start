@@ -1,6 +1,3 @@
-# FAQ
-:question::exclamation: Devs4Good F.A.Q
-
 # :computer: Devs4Good Quick Start :rocket:  
 
 ### Hola! :wave: Bienvenid@ a nuestra comunidad. ¡Acá tenés una guía rápida para empezar! :sparkles:
